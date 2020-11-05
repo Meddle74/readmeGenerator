@@ -1,8 +1,8 @@
 
-# **Node JS readme generator**
+# **Test Readme File**
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description 
-A command line readme generator using node.js
+This is a test of the node.js command line generated readme file
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
