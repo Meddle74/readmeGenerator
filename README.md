@@ -5,7 +5,7 @@
 A quick and easy node.js command line application that auto generates a README.md file.
 
 ## Screenshots
-![Algorithm schema](assets/sample_file.png)
+![Algorithm schema](assets/test.png)
 
 ## Table of contents
 - [Description](#Description)
