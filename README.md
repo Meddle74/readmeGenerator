@@ -18,7 +18,7 @@ A quick and easy node.js command line application that auto generates a README.m
         npm i
 ## Usage
         Run npm install and then run node index.js
-## Licence
+## License
 MIT
 ## Repository
 - [Node.js README generator Repo](https://github.com/meddle74/readmeGenerator)
